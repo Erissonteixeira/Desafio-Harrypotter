@@ -27,4 +27,5 @@ public class Bruxo{
     public void mostrarInformacoes(){
         System.out.println("Bruxo: " + nome + " | casa: " + casa);
     }
+
 }
