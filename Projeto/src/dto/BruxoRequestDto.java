@@ -1,4 +1,4 @@
-package model;
+package dto;
 
 public class BruxoRequestDto{
     private String nome;
