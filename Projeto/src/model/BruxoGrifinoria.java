@@ -6,6 +6,6 @@ public class BruxoGrifinoria extends Bruxo implements Magia{
     }
     @Override
     public void lancarFeitico(){
-        System.out.println("Expelliarmus! -O bruxo da Grifinoria lançou seu feitiço!");
+        System.out.println("Expelliarmus! - O Bruxo da Grifinoria lançou seu feitiço!");
     }
 }
